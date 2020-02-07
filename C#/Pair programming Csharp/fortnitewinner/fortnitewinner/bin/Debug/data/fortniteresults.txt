@@ -1,0 +1,7 @@
+﻿TeamName           NumberInTeam    KillsAchieved    KillsAgainst
+AlsAllStars                  4                2               5
+DavesDevastators             5                3               3
+JakesGiants                  4                7               0
+ViviensViscionaries          2                4               2
+PedrosPetrifiers             3               16              15
+MattsMaulers                 4                1               9

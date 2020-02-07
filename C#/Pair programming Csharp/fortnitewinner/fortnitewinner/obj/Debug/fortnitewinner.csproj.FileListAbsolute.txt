@@ -1,0 +1,15 @@
+C:\BJSS Projects\Pair programming Csharp\fortnitewinner\fortnitewinner\bin\Debug\fortnitewinner.exe.config
+C:\BJSS Projects\Pair programming Csharp\fortnitewinner\fortnitewinner\bin\Debug\fortnitewinner.exe
+C:\BJSS Projects\Pair programming Csharp\fortnitewinner\fortnitewinner\bin\Debug\fortnitewinner.pdb
+C:\BJSS Projects\Pair programming Csharp\fortnitewinner\fortnitewinner\obj\Debug\fortnitewinner.csproj.CoreCompileInputs.cache
+C:\BJSS Projects\Pair programming Csharp\fortnitewinner\fortnitewinner\obj\Debug\fortnitewinner.exe
+C:\BJSS Projects\Pair programming Csharp\fortnitewinner\fortnitewinner\obj\Debug\fortnitewinner.pdb
+C:\BJSS Projects\Pair programming Csharp\fortnitewinner\fortnitewinner\bin\Debug\data\fortniteresults.txt
+C:\BJSS Projects\Pair programming Csharp\fortnitewinner\fortnitewinner\obj\Debug\fortnitewinner.csprojAssemblyReference.cache
+C:\Users\paul.brown\dev\pairing\C#\Pair programming Csharp\fortnitewinner\fortnitewinner\bin\Debug\data\fortniteresults.txt
+C:\Users\paul.brown\dev\pairing\C#\Pair programming Csharp\fortnitewinner\fortnitewinner\bin\Debug\fortnitewinner.exe.config
+C:\Users\paul.brown\dev\pairing\C#\Pair programming Csharp\fortnitewinner\fortnitewinner\bin\Debug\fortnitewinner.exe
+C:\Users\paul.brown\dev\pairing\C#\Pair programming Csharp\fortnitewinner\fortnitewinner\bin\Debug\fortnitewinner.pdb
+C:\Users\paul.brown\dev\pairing\C#\Pair programming Csharp\fortnitewinner\fortnitewinner\obj\Debug\fortnitewinner.csprojAssemblyReference.cache
+C:\Users\paul.brown\dev\pairing\C#\Pair programming Csharp\fortnitewinner\fortnitewinner\obj\Debug\fortnitewinner.exe
+C:\Users\paul.brown\dev\pairing\C#\Pair programming Csharp\fortnitewinner\fortnitewinner\obj\Debug\fortnitewinner.pdb
