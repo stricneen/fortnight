@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fortnitewinner", "fortnitewinner\fortnitewinner.csproj", "{46C14114-4523-48C4-97FA-17645AD16B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestsFortniteWinner", "UnitTestsFortniteWinner\UnitTestsFortniteWinner.csproj", "{5C515B68-72B4-4DC8-B98B-5AAB1F7534DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C14114-4523-48C4-97FA-17645AD16B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C14114-4523-48C4-97FA-17645AD16B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C14114-4523-48C4-97FA-17645AD16B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C14114-4523-48C4-97FA-17645AD16B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C515B68-72B4-4DC8-B98B-5AAB1F7534DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C515B68-72B4-4DC8-B98B-5AAB1F7534DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C515B68-72B4-4DC8-B98B-5AAB1F7534DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C515B68-72B4-4DC8-B98B-5AAB1F7534DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA65F790-B739-4DBC-B390-16BCD9020CEA}
+	EndGlobalSection
+EndGlobal
