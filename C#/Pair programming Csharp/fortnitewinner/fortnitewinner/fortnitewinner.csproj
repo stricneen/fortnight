@@ -45,6 +45,7 @@
     <Compile Include="helpers\ResultsFileReader.cs" />
     <Compile Include="helpers\ResultsLineParser.cs" />
     <Compile Include="interfaces\IResultsFileReader.cs" />
+    <Compile Include="Model\FortniteResult.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
